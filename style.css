@@ -80,6 +80,11 @@ html, body {
   font-weight: lighter;
 }
 
+.socials a {
+  text-decoration: none;
+  color: #fff;
+}
+
 .mail {
   margin-bottom: 60px;
 }
